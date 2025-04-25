@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Form Validation Demo',
+      title: 'Login Form Demo',
       home: const LoginForm(),
     );
   }
